@@ -59,7 +59,7 @@
     <tr>
     <th>Sedan</th>
       <th>SUV</th>
-      <th>hatchback</th>
+      <th>Hatchback</th>
     </tr>
   </thead>
   <tbody>

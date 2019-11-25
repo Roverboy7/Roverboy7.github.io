@@ -1,0 +1,12 @@
+h1 {
+        color : rgb(25,100,30);
+        font-size:2em;
+      }
+      .drivetrain {
+        background-color: rgb(236, 12, 111);
+        font-family:"georgia" , monospace;
+        font-size:20px;
+      }
+      a {
+        text-decoration:none;
+      }

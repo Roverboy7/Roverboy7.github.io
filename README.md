@@ -3,9 +3,8 @@
   <head>
     <meta charset = "utf-8">
     <title> First Website </title>
-    <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Roverboy7/Roverboy7.github.io/master/first.css">
     <style>
-     /* h1 {
+     h1 {
         color : rgb(25,100,30);
         font-size:2em;
       }
@@ -16,7 +15,7 @@
       }
       a {
         text-decoration:none;
-      }*/
+      }
     </style>
   </head>
   <body>
